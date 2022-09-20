@@ -1,7 +1,6 @@
 {
     "name": "my-rank-social-digital",
-    "main": "my-rank-social-digital",
-    "theme": "syntax",
+    "main": "./lib/my-rank-social-digital",
     "version": "0.1.0",
     "description": "รับทำ SEO รับทำเว็บไซต์ รับออกแบบเว็บไซต์ Wordpress",
     "keywords": [
@@ -13,5 +12,7 @@
     "license": "MIT",
     "engines": {
       "atom": ">=1.0.0 <2.0.0"
+    },
+    "dependencies": {
     }
   }
