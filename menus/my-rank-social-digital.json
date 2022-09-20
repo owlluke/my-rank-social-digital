@@ -1,0 +1,34 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle my-rank-social-digital",
+        "command": "my-rank-social-digital:toggle"
+      },
+      {
+        "label": "Fetch my-rank-social-digital",
+        "command": "my-rank-social-digital:fetch"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "my-rank-social-digital",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "my-rank-social-digital:toggle"
+            },
+            {
+              "label": "Fetch",
+              "command": "my-rank-social-digital:fetch"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

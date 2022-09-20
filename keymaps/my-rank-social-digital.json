@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-o": "my-rank-social-digital:toggle",
+    "ctrl-alt-p": "my-rank-social-digital:fetch"
+  }
+}
