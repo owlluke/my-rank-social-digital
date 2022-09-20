@@ -1,8 +1,8 @@
 {
-    "name": "ranksocialdigital",
+    "name": "my-rank-social-digital",
     "main": "my-rank-social-digital",
     "theme": "syntax",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "description": "รับทำ SEO รับทำเว็บไซต์ รับออกแบบเว็บไซต์ Wordpress",
     "keywords": [
       "SEO",
