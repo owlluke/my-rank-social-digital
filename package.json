@@ -1,0 +1,17 @@
+{
+    "name": "Ranksocialdigital",
+    "main": "my-rank-social-digital",
+    "theme": "syntax",
+    "version": "0.2.0",
+    "description": "รับทำ SEO รับทำเว็บไซต์ รับออกแบบเว็บไซต์ Wordpress",
+    "keywords": [
+      "seo",
+      "Google AdWords",
+      "Wordpress"
+    ],
+    "repository": "https://github.com/owlluke/test",
+    "license": "MIT",
+    "engines": {
+      "atom": ">=1.0.0 <2.0.0"
+    }
+  }
